@@ -22,7 +22,7 @@ o membro clica em um botão, preenche um formulário, a liderança confere e lib
 
 | Painel de pedido | Análise da liderança | Editor do formulário |
 |:---:|:---:|:---:|
-| ![Painel](<img src='https://i.imgur.com/JwE0Spr.png'>) | ![Análise](docs/analise.png) | ![Editor](docs/editor.png) |
+| ![Painel](docs/painel.png) | ![Análise](docs/analise.png) | ![Editor](docs/editor.png) |
 
 ## ✨ Funcionalidades
 
