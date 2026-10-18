@@ -117,7 +117,7 @@ npm start
 
 ## 📄 Licença
 
-Copyright © 2026 SEU NOME. **Todos os direitos reservados.**
+Copyright © 2026 Lucas Lourenço. **Todos os direitos reservados.**
 
 Este código está público apenas para fins de visualização e portfólio. É proibido copiar, modificar, redistribuir ou usar este software sem autorização por escrito. Veja o arquivo [LICENSE](LICENSE).
 
